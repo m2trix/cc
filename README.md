@@ -97,11 +97,13 @@ graph TD
     C --> |two| E[iPhone]
     C --> |three| F[Car]
 ```
+```
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
+```
 
 #### 序列图
 ```
